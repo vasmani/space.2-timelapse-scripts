@@ -38,7 +38,7 @@ G6의 화질은 아래와 같이 꽤나 훌륭했다.
 ![맨 처음으로 찍은 사진](http://24.media.tumblr.com/98301f61d9f254707b3479fa32fa2436/tumblr_mmvjfb4QFT1sr6u5ro1_1280.jpg)
 
 GoPro의 화질은 아래와 같다. 화질보다는 화각이 좋다.  
-![GoPro의 화질](http://timelapse.dev.daumcorp.com/timelapse/gopro_resized/gopro1/2013-06-25/p1_201306251538_g0010742.jpg)
+![GoPro의 화질](https://farm4.staticflickr.com/3681/9202444448_c873286ebb_h.jpg)
 
 결과물
 ---
