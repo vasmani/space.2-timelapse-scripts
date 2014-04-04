@@ -1,0 +1,2 @@
+*/3         * * * *   /home/pi/public_html/lapse/expose_my_ip.sh > /dev/null 2>&1
+*/5 7-18 * * *  /home/pi/public_html/gopro/take_picture_and_send.sh && /home/pi/public_html/gopro/send_pictures_to_server.sh > /dev/null 2>&1

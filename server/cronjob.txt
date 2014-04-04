@@ -1,0 +1,8 @@
+#15 0 * * * /home/daum/temp/make_g6_mp4.sh > /dev/null 2>&1
+#*/5  6-18 * * * /home/daum/scripts/make_symlinks.sh > /dev/null 2>&1
+#2,7,12,17,22,27,32,37,42,47,52,57 6-18 * * * /home/daum/scripts/resize_and_annotate.sh gopro1; /home/daum/scripts/resize_and_annotate.sh gopro2; /home/daum/scripts/logging.sh > /dev/null 2>&1
+#5  1 * * * /home/daum/scripts/move_to_date_directory.sh gopro1 > /dev/null 2>&1
+#10 1 * * * /home/daum/scripts/move_to_date_directory.sh gopro2 > /dev/null 2>&1
+#30 1 * * * /home/daum/scripts/make_timelapse_movie.sh gopro1 > /dev/null 2>&1
+#50 3 * * * /home/daum/scripts/make_timelapse_movie.sh gopro2 > /dev/null 2>&1
+#15 1 * * * /usr/bin/python /home/daum/scripts/uploadr.py/uploadr/uploadr.py > /dev/null 2>&1
